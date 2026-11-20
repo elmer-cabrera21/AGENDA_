@@ -6,8 +6,6 @@ La aplicación está desplegada y funcionando en internet en el siguiente enlace
 
 ## 📸 Capturas de Pantalla
 *   ![Pantalla de Login](https://github.com/elmer-cabrera21/agenda-contactos/raw/main/login.png)
-*(Si subiste más capturas, agrega las líneas aquí abajo cambiando el nombre del archivo, por ejemplo:)*
-<!-- *   ![Panel Principal](https://github.com/elmer-cabrera21/agenda-contactos/raw/main/panel.png) -->
 
 ## 📝 Descripción del Proyecto
 Aplicación web desarrollada en PHP y MySQL que permite a los usuarios registrarse, iniciar sesión y gestionar una agenda personal de contactos. El sistema garantiza la seguridad mediante la encriptación de contraseñas y el uso de sesiones, asegurando que cada usuario pueda visualizar, editar y eliminar **únicamente sus propios contactos**.
